@@ -1,0 +1,10 @@
+---
+title: "Index"
+author: "Ethan Ni"
+date: "2024-02-26"
+output: html_document
+---
+
+# Hello! This is my Github Repository Site. This site was created as a part of the Bio 476 "Evolutionary Genomics and Bioinformatics" course, taught by Dr. Jeffrey Blanchard at UMass Amherst. 
+
+![Welcome!!](/cloud/project/cat.png)
